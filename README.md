@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Python
 -  📫 How to reach me:
 -  telegram : @serega009544
--  <img src="t.me/serega009544" />
+-  <img src="@serega009544" />
   
 
 <!--
