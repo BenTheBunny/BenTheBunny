@@ -2,6 +2,9 @@
 - 🌱 I’m currently learning Python
 -  📫 How to reach me:
 -  telegram : @serega009544
+-  <img src="{https://github.com/BenTheBunny/BenTheBunny/assets/100760252/ec166624-b6bf-49af-be05-74e9a97134ae}" />
+  
+
 <!--
 **BenTheBunny/BenTheBunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
